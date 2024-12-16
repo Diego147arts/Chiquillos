@@ -1,0 +1,13 @@
+
+["Random Spawn Config"]
+	#Max RTP Distance
+	#Range: 1 ~ 10000
+	MaxDistance = 500
+	#Max RTP Tries
+	#Range: 1 ~ 20
+	MaxTries = 5
+	#Biome Blacklist
+	"biome Blacklist" = ["mod1:biome2", "mod3:biome4"]
+	#Block Blacklist
+	"block Blacklist" = ["minecraft:magma_block", "minecraft:cactus", "minecraft:lava"]
+
